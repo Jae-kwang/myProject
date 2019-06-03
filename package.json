@@ -1,6 +1,6 @@
 {
   "name": "myproject-123",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my First npm modules",
   "main": "dist/build.js",
   "scripts": {
