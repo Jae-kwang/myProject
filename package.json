@@ -9,6 +9,7 @@
   "keywords": ["example"],
   "author": "Jake",
   "license": "ISC",
+  "homepage": "https://github.com/Jae-kwang/myProject",
   "dependencies": {
     "vue": "^2.6.10"
   },
