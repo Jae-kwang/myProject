@@ -1,12 +1,13 @@
 {
-  "name": "myproject",
+  "name": "myproject-123",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "my First npm modules",
+  "main": "dist/build.js",
   "scripts": {
     "build": "webpack --config ./build/webpack.config.js"
   },
-  "author": "",
+  "keywords": ["example"],
+  "author": "Jake",
   "license": "ISC",
   "dependencies": {
     "vue": "^2.6.10"
